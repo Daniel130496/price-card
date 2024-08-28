@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/price-card/static/css/main.50d17f40.css",
+    "main.js": "/price-card/static/js/main.30898a8b.js",
+    "static/js/453.acc6f5cd.chunk.js": "/price-card/static/js/453.acc6f5cd.chunk.js",
+    "static/media/abstract.jpg": "/price-card/static/media/abstract.25285bf416bdadf6c7ee.jpg",
+    "index.html": "/price-card/index.html",
+    "main.50d17f40.css.map": "/price-card/static/css/main.50d17f40.css.map",
+    "main.30898a8b.js.map": "/price-card/static/js/main.30898a8b.js.map",
+    "453.acc6f5cd.chunk.js.map": "/price-card/static/js/453.acc6f5cd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50d17f40.css",
+    "static/js/main.30898a8b.js"
+  ]
+}
